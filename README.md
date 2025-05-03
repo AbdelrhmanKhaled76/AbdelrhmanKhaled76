@@ -11,7 +11,7 @@
 
 Recent Focus & Goals:
 
-Recently, I have been deepening my expertise in TypeScript and Angular.js, focusing on building enterprise-grade applications. My goal is to become a versatile full-stack developer, combining AI, backend, and frontend expertise to create innovative solutions.
+Recently, I have been deepening my expertise in TypeScript and Next.js, focusing on building enterprise-grade applications. My goal is to become a versatile full-stack developer, combining AI, backend, and frontend expertise to create innovative solutions.
 
 I am always eager to collaborate, learn new technologies, and tackle challenging projects. Feel free to connect with me to discuss exciting opportunities in AI, full-stack development, or software engineering.
 
