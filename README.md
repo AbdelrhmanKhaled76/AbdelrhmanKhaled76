@@ -1,7 +1,19 @@
-## Hi I'm, Abdelrhman Khaled  👋
+## I am an Artificial Intelligence student at Helwan University with a strong foundation in Machine Learning, Web Development, and Database Management. My passion lies in building scalable web applications and leveraging AI technologies to solve real-world problems.
 
-# 💫 About Me:
-- 🔭 I’m currently working on being a full stack developer using Next js<br>- 🌱 I’m currently learning Next js<br>- 👯 I’m looking to collaborate on Next js projects<br>- 🤔 I’m looking for help with Any Front End Project even if it is angular js<br>
+# Technical Skills & Experience: 
+
+• Programming Languages: Proficient in Python, C, Java, JavaScript, TypeScript, HTML, CSS, and Bash scripting. 
+• Frontend Development: Experienced in React.js, Next.js, and Angular.js, using TypeScript for scalable and maintainable applications. 
+• Backend Development: Strong expertise in Node.js with Express.js, building RESTful APIs and handling server-side logic. 
+• Database Management: Worked extensively with SQL (PostgreSQL, MySQL, PySQL) and NoSQL databases (MongoDB). 
+• Big Data & AI: Familiar with Hive, Spark, and Machine Learning concepts. 
+• UI/UX Design: Experience in Figma, designing user-friendly interfaces. 
+
+Recent Focus & Goals:
+
+Recently, I have been deepening my expertise in TypeScript and Angular.js, focusing on building enterprise-grade applications. My goal is to become a versatile full-stack developer, combining AI, backend, and frontend expertise to create innovative solutions.
+
+I am always eager to collaborate, learn new technologies, and tackle challenging projects. Feel free to connect with me to discuss exciting opportunities in AI, full-stack development, or software engineering.
 
 
 # 💻 Tech Stack:
